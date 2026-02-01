@@ -1,0 +1,26 @@
+{
+  "name": "tienda",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jonathan35356/tienda-crud-postgres-.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jonathan35356/tienda-crud-postgres-/issues"
+  },
+  "homepage": "https://github.com/jonathan35356/tienda-crud-postgres-#readme",
+  "dependencies": {
+    "dotenv": "^17.2.3",
+    "nodemon": "^3.1.11",
+    "pg": "^8.18.0"
+  }
+}
